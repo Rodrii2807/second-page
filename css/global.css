@@ -1,0 +1,314 @@
+body
+{
+	background: grey;
+}
+.wrapper
+{
+	background: white;
+	width: 1047px;
+	height: 1548px;
+	margin: 0 auto;
+}
+header
+{
+	width: 1047px;
+	height: 100px;
+}
+h1
+{
+ font:67px "Times New Roman";
+ margin: 0;
+ padding: 0;
+}
+header h1 .color
+{
+	color: #009ff7;
+}
+header h1
+{
+	position: relative;
+ 	left: 32px;
+ 	top: 0px;
+}
+h2
+{
+	font: 15px "Times New Roman"
+
+}
+header h2
+{
+	position: relative;
+	left: 37px;
+	bottom: 20px;
+
+}
+header img
+{
+	position: relative;
+	left: 600px;
+	bottom: 91px;
+}
+header .find
+{
+	position: relative;
+	left: 788px;
+	bottom: 89px;
+}
+header p
+{
+	font: 11px "Arial";
+	position: relative;
+	left: 629px;
+	bottom: 125px;
+
+}
+nav
+{
+	width: 1047px;
+	height: 64px;
+}
+nav ul
+{
+	list-style-type: none;
+
+}
+nav ul li
+{
+	width: 140px;
+	position: relative;
+	left: 32px;
+	top: 17px;
+	float: left;
+	text-align: center;
+	border:20px;
+	border-color: green;
+}
+a
+{
+	font: 20px "Times New Roman";
+	color: black;
+	text-decoration:none; 
+}
+
+.banner
+{
+	width: 1047px;
+	height: 370px;
+}
+.banner img
+{
+	position: relative;
+	left: 35px;
+}
+.banner .dots
+{
+	position: relative;
+	left: 470px;
+	bottom: 138px;
+}
+.welcome
+{
+	width: 349px;
+	height: 390px;
+	float: left;
+}
+h3
+{
+	font:35px "MS Serif";
+}
+.welcome h3
+{
+	position: relative;
+	left: 29px;
+	bottom: 24px;
+	color: #228ed9
+}
+.welcome img
+{
+	position: relative;
+	left: 32px;
+	bottom: 50px;
+}
+.welcome .wel
+{
+	margin: 14px 0;
+}
+.welcome p
+{
+	font: 12px "Arial";
+	line-height: 1.5em;
+	position: relative;
+	left: 29px;
+	bottom: 60px;
+}
+.welcome .read
+{
+	font: 12px "Arial";
+	margin: 12px 0;
+	color: #6fa8c6;
+}
+.solutions
+{
+	width: 349px;
+	height: 390px;
+	float: left;
+}
+.solutions h3
+{
+	font:32px "MS Serif";
+	position: relative;
+	left: 15px;
+	bottom: 17px;
+}
+.solutions img
+{
+	position: relative;
+	left: 17px;
+	bottom: 41px;
+}
+.solutions .overview
+{
+	margin: 14px 0;
+}
+.solutions p
+{
+	font: 12px "Arial";
+	position: relative;
+	left: 16px;
+	bottom: 52px;
+	line-height: 1.5em;
+}
+.solutions .read
+{
+	font: 12px "Arial";
+	margin: 12px 0;
+	color: #6fa8c6;
+}
+.projects
+{
+	width: 349px;
+	height: 390px;
+	float: right;
+}
+.projects h3
+{
+	font:32px "MS Serif";
+	position: relative;
+	left: 15px;
+	bottom: 17px;
+}
+.projects img
+{
+	position: relative;
+	left: 17px;
+	bottom: 41px;
+}
+.projects .latest
+{
+	margin: 13px 0;
+}
+.projects .buttons
+{
+	position: relative;
+	bottom: 54px;
+	left: 12px;
+}
+.services
+{
+	width: 687px;
+	height: 280px;
+	float: left;
+}
+.services h3
+{
+	font:32px "MS Serif";
+	position: relative;
+	left: 30px;
+	bottom: 23px;
+}
+.services p
+{
+	font: 12px "Arial";
+	line-height: 1.5em;
+	position: relative;
+	left: 31px;
+	bottom: 35px;
+	
+}
+.services .read
+{
+	font: 12px "Arial";
+	margin: 128px 0;
+	color: #6fa8c6;
+}
+.services ul
+{
+	
+	list-style-type: none; ;
+
+	
+}
+.services ul li
+{
+	float: left;
+	width: 300px;
+	height: 25px;
+	position: relative;
+	bottom: 285px;
+	left: 60px;	
+	float: left;
+}
+.services a
+{
+	font: 15px "Arial";
+	color: black;
+	text-decoration: underline;;
+	
+}
+.testimonials
+{
+	width: 360px;
+	height: 280px;
+	float: right;
+}
+.testimonials h3
+{
+	font:32px "MS Serif";
+	position: relative;
+	left: 8px;
+	bottom: 23px;
+}
+
+.testimonials p
+{
+	font: 12px "Arial";
+	line-height: 1.5em;
+	position: relative;
+	left: 10px;
+	bottom: 35px;
+}
+.testimonials .mr
+{
+	position: relative;
+	bottom: 30px;
+	left: 9px;
+}
+.testimonials .date
+{
+	position: relative;
+	bottom: 43px;
+	left: 9px;
+	color: #6fa8c6;
+}
+.testimonials .view
+{
+	font: 12px "Arial";
+	margin: 13px 0;
+	color: #6fa8c6;
+}
+form
+{
+	position: relative;
+	top: 16px;
+	left: 23px;
+}
